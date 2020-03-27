@@ -1,6 +1,6 @@
 # Blinkt_RPI
 ## Controlling Blinkt on Raspberry Pi through a Web Page
-## Folder Tree
+### Folder Tree
 * Blinkt_RPI
     * app.py
     * static
