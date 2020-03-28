@@ -1,4 +1,3 @@
-
 from flask import *
 from blinkt import set_pixel, set_brightness, show, clear
 import colorsys
