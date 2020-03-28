@@ -42,8 +42,7 @@ def rainbow():
             set_pixel(x, r, g, b)
         show()
         time.sleep(0.05)
-        t = t - 1
-            
+        t = t - 1            
     return render_template('index.html')
 
 if __name__ == "__main__":
