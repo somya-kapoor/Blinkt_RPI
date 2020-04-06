@@ -11,3 +11,5 @@
 ![](https://github.com/somya-kapoor/Blinkt_RPI/blob/master/Working.png )
 ## Web Page
 ![](https://github.com/somya-kapoor/Blinkt_RPI/blob/master/Webpage.png )
+## For Reference
+https://www.linkedin.com/pulse/blinktrpi-controlling-blinkt-raspberry-pi-through-web-somya-kapoor
